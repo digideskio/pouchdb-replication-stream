@@ -1,5 +1,5 @@
 'use strict';
-
+ 
 var utils = require('./pouch-utils');
 var version = require('./version');
 var ldj = require('ldjson-stream');
